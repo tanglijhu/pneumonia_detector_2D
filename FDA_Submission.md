@@ -63,7 +63,7 @@ Rescale the image by dividing by 255.0, then normalize the image with the mean a
 
 ![auc](./img/auc.png)
 
-![precision_recall_curve](./img/precison_recall.png)
+![precision_recall_curve](./img/precision_recall.png)
 
 **Final Threshold and Explanation:**
 - Based on the F1-Score vs Threshold Chart, to balance between the Precision and Recall, the threshold of 0.728 will give the max value of F1-Score.
